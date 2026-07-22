@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Gokul V 👋
 
-<!--
-**gokul-vm-187/gokul-vm-187** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 Aspiring AI/ML Engineer
+- 🐍 Learning Python & Machine Learning
+- 📚 Currently learning: Matplotlib
+- 💡 Interested in AI, Data Science and Cloud
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Python
+- NumPy
+- Pandas
+- Matplotlib (Learning)
+- Scikit-learn (Learning)
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- 🧮 Python Calculator
+- 🏧 ATM Management System
+- 🤖 More AI/ML Projects Coming Soon...
+
+## 📜 Certifications
+- AICTE Virtual Internship
+- AWS Cloud Practitioner (Learning)
+
+## 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/vmgokul
