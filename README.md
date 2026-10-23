@@ -1,27 +1,27 @@
 # Hi, I'm Gokul V 👋
 
 ## 🚀 About Me
-- 🎓 Aspiring AI/ML Engineer
-- 🐍 Learning Python & Machine Learning
-- 📚 Currently learning: Matplotlib
-- 💡 Interested in AI, Data Science and Cloud
+- 🎓 Final-year B.Sc. Computer Science student at SRM IST Chennai
+- 💻 Aspiring Software Engineer
+- 🐍 Building projects with Python, SQL and OOP
+- 📚 Currently learning: DSA, Git workflows, REST APIs
+- 💡 Interested in backend development and cloud
 
 ## 🛠️ Skills
-- Python
-- NumPy
-- Pandas
-- Matplotlib (Learning)
-- Scikit-learn (Learning)
-- Git & GitHub
+- **Languages:** Python, SQL
+- **Concepts:** OOP, Data Structures & Algorithms
+- **Tools:** Git, GitHub
+- **Learning:** REST APIs, AWS Cloud
 
 ## 📂 Projects
-- 🧮 Python Calculator
-- 🏧 ATM Management System
-- 🤖 More AI/ML Projects Coming Soon...
+- 🧮 **Python Calculator**: Console-based calculator built with Python
+- 🏧 **ATM Management System**: OOP-based ATM simulation with account operations
+- 🔜 More software projects coming soon
 
 ## 📜 Certifications
 - AICTE Virtual Internship
-- AWS Cloud Practitioner (Learning)
+- AWS Cloud Practitioner (in progress)
 
 ## 📫 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/vmgokul
+- Email: mr.gokulvm2007@gmail.com
