@@ -20,7 +20,6 @@
 
 ## 📜 Certifications
 - AICTE Virtual Internship
-- AWS Cloud Practitioner (in progress)
 
 ## 📫 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/vmgokul
